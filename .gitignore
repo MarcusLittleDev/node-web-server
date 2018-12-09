@@ -75,3 +75,4 @@ typings/
 # FuseBox cache
 .fusebox/
 notes-node/notes-data.json
+.vscode
